@@ -37,7 +37,7 @@ This repository collects resources across these layers. It also preserves the or
 
 The original AI-assisted paper surveys citation drift as a layered problem involving reference existence, metadata integrity, evidence retrieval, claim attribution, and support judgment. It reviews retrieval-augmented and citation-aware systems and identifies fine-grained, domain-robust evaluation as a major open direction.
 
-**Artifact:** [`AI_Assisted_Research_Paper.pdf`](paper/AI_Assisted_Research_Paper.pdf)
+**Artifact:** [`AI_Assisted_Research_Paper.pdf`](paper/Detecting_Citation_Drift_in_AI_Generated_Literature_Summaries.pdf)
 
 The paper contains approximately 4,701 words, 10 major sections, and 60 references as recorded in the accompanying audit report.
 
